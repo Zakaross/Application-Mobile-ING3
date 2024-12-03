@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertion</string>
+    <string name="title">Convertir un chiffre en lettres</string>
+    <string name="entrez_un_chiffre">Entrez un chiffre entre 1 a 10 milion</string>
+    <string name="convertir">Convertir</string>
+    <string name="fr">Français :</string>
+    <string name="en">English :</string>
+    <string name="other">Langue Maternelle :</string>
+</resources>

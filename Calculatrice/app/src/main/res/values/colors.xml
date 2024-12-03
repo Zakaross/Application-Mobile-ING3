@@ -1,0 +1,9 @@
+<resources>
+    <color name="background_color">#FFFFFF</color> <!-- Fond blanc -->
+    <color name="button_background">#DDDDDD</color> <!-- Boutons gris clair -->
+    <color name="button_pressed_color">#FF5722</color> <!-- Boutons appuyés (couleur orange) -->
+    <color name="button_text_color">#000000</color> <!-- Texte des boutons en noir -->
+    <color name="text_color">#000000</color> <!-- Texte de l'écran en noir -->
+    <color name="display_background">#F1F1F1</color>
+    <color name="_888888">#888888</color> <!-- Fond de l'écran -->
+</resources>

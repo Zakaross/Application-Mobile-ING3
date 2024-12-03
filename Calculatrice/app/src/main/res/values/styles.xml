@@ -1,0 +1,47 @@
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:background">@drawable/button_selector</item>
+    </style>
+
+    <style name="CalculatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">74dp</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:backgroundTint">#FFFF5722</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="OperatorButton" parent="CalculatorButton">
+        <item name="android:backgroundTint">#FF6200EE</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="ScientificButton" parent="CalculatorButton">
+        <item name="android:backgroundTint">#FF03DAC5</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="ClearButton" parent="CalculatorButton">
+        <item name="android:backgroundTint">#FFFF5722</item>
+    </style>
+
+    <style name="EqualButton" parent="CalculatorButton">
+        <item name="android:backgroundTint">#FF4CAF50</item>
+    </style>
+    <style name="MemoryButton" parent="CalculatorButton">
+        <item name="android:backgroundTint">#FF6200EE</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

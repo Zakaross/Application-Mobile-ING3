@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_sqrt">√</string>
+
+<string name="button_clear">C</string>
+    <string name="button_percent">%</string>
+    <string name="button_square_root">√</string>
+    <string name="button_divide">÷</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button_multiply">×</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button_minus">-</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button_plus">+</string>
+    <string name="button0">0</string>
+    <string name="button_dot">.</string>
+    <string name="button_equals">=</string>
+    <string name="button_brackets">()</string>
+    <string name="display_initial_text">0</string>
+</resources>
